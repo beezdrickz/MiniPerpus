@@ -1,2 +1,2 @@
 # MiniPerpus
-Basic Perpustakaan microservice with kafka as messaging 
+Basic Perpustakaan microservice with kafka as messaging for user service, book Service, order service
